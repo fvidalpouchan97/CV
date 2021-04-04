@@ -1,0 +1,37 @@
+img{width: 250px;
+border:2px solid black;
+border-radius: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+*{background-color:slategray;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{text-align: center;
+font-family: 'Kiwi Maru', serif;
+font-size:2em;}
+h3{text-align: center;
+    font-family: 'Kiwi Maru', serif;
+    font-size:1.5em;}
+h2{font-family:'Kiwi Maru', serif;}
+b{
+color:darkslateblue;}
+.container{
+    margin-top: 2%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    width: 50%;
+    border:solid 1px black;
+    padding:0.5cm;
+}
+.centrarLink{text-align: center;
+margin:3%;}
+hr{
+border-color:dimgrey;
+margin:0.5cm;
+padding-inline-start: 0px;}
+ul{display: inline;}
+li{margin:0.2cm;
+padding-right:3%;
+padding-left:3%;}
